@@ -167,11 +167,11 @@ We strive to build a diverse team that welcomes all and works together to do the
     {% endif %}
     {% if member.timeline_group %} # Assign timeline color specifically from profile, otherwise from position
       {% assign position = member.timeline_group | downcase %}
-		{% elsif member.timeline_positions %} #all search strings in following section must be lowercase or it will not find matches
-			{% assign position = member.timeline_positions[tenure] | downcase %}
-		{% else %}
-			{% assign position = member.position | downcase %}
-		{% endif %}
+        {% elsif member.timeline_positions %} #all search strings in following section must be lowercase or it will not find matches
+          {% assign position = member.timeline_positions[tenure] | downcase %}
+        {% else %}
+          {% assign position = member.position | downcase %}
+        {% endif %}
 		{% if position contains "principal investigator" %}
 			{% assign color = "red" %}
 		{% elsif position contains "postdoctoral" %}
