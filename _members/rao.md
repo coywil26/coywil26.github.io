@@ -1,11 +1,11 @@
 ---
 name: Jingyou Rao
-startdate: [2024-07-01]
-enddate: []
+startdate: [2024-07-01, 2025-08-01]
+enddate: [2025-08-01, present]
 image: /static/img/members/Rao.jpg
 #altimage: 
 position: "Visiting Graduate Student"
-#subsequent: update once you become an alumnus
+subsequent: "Postdoctoral Scholar @ UCSF, Coyote-Maestas Lab"
 pronouns: she/her/hers
 email: roserao (at) ucla.edu
 scholar: ERxq2TEAAAAJ

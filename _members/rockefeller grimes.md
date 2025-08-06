@@ -5,7 +5,7 @@ enddate: [2023-08-01]
 image: /static/img/members/Rockefeller.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/Macdonald_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
-subsequent: Phd student at UCSF in Biophysics
+subsequent: PhD student @ UCSF in Biophysics
 pronouns: he/him/his
 email: patrick.grimes (at) ucsf.edu #Preferred public email address
 # scholar:  #Google Scholar User ID

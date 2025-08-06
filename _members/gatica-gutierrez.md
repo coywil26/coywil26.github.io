@@ -5,7 +5,7 @@ enddate: [2022-08-01]
 #image:
 #altimage:
 position: "[SRTP](https://graduate.ucsf.edu/srtp) Student"
-subsequent: Phd student at Rice University in Systems, Synthetic, and Physical Biology
+subsequent: PhD student @ Rice University in Systems, Synthetic, and Physical Biology
 pronouns: "he/him/his"
 email: "henrygat@nmsu.edu"
 scholar:

@@ -7,7 +7,7 @@ group: members
 <h1>Our Team!</h1>
 
 We strive to build a diverse team that welcomes all and works together to do the science of our dreams.<br>
-<h5>See our<a href="/philosophy/"> and philosophy</a>.</h5>
+<h5>See our<a href="/philosophy/"> lab philosophy</a>.</h5>
 
 {% for member in site.members %}
 
@@ -176,6 +176,8 @@ We strive to build a diverse team that welcomes all and works together to do the
 			{% assign color = "red" %}
 		{% elsif position contains "postdoctoral" %}
 			{% assign color = "darkorange" %}
+    {% elsif position contains "visiting" %}
+      {% assign color = "purple" %}
 		{% elsif position contains "graduate student" %}
 			{% assign color = "gold" %}
 		{% elsif position contains "staff scientist" or position contains "programmer" or position contains "manager" %}
@@ -186,7 +188,8 @@ We strive to build a diverse team that welcomes all and works together to do the
             {% unless position contains "affiliate" %}
                 {% assign color = "blue" %}
             {% endunless %}
-		{% else %}
+
+            {% else %}
 			{% assign color = "purple" %}
 		{% endif %}
 

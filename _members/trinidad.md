@@ -5,7 +5,7 @@ enddate: [2024-09-11]
 image: /static/img/members/trinidad.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/trinidad_pb.jpg  #365 x 365 pixels, 72 dpi
 position: "Graduate Student, [BMS](https://bms.ucsf.edu) ([F31 NRSA](https://www.nigms.nih.gov/))"
-subsequent:  Silas lab, Gladstone Institutes
+subsequent:  Postdoctoral scholar @ Silas lab, Gladstone Institutes
 pronouns: he/him/his #personal pronouns
 email: donovan.trinidad (at) ucsf.edu
 scholar: wEtt_94AAAAJ #Google Scholar User ID

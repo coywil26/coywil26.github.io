@@ -5,7 +5,7 @@ enddate: [2024-08-01]
 #image:
 #altimage:
 position: "[SRTP](https://graduate.ucsf.edu/srtp) Student"
-subsequent: Undergraduate student at University of Nevada Las Vegas
+subsequent: Undergraduate student @ University of Nevada, Las Vegas
 pronouns: "she/her/hers"
 email:
 scholar:
