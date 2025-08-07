@@ -1,5 +1,5 @@
 ---
-name: Matthew K Howard
+name: Matthew K. Howard
 startdate: [2022-06-01]
 enddate: []
 image: /static/img/members/MattHoward.JPG
