@@ -15,8 +15,8 @@
   group: members
 
 - name: outreach
-  link: "/DEI"
-  group: DEI
+  link: "/outreach"
+  group: outreach
 
 - name: philosophy
   link: "/philosophy"

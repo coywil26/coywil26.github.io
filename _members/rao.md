@@ -1,11 +1,11 @@
 ---
 name: Jingyou Rao
-startdate: [2025-08-01]
+startdate: [2024-07-01,2025-08-01]
 enddate: [2025-08-01, present]
 image: /static/img/members/Rao.jpg
 #altimage: 
 position: Postdoctoral Scholar
-timeline_positions: ["Visting Graduate Student (2024-2025)", "Postdoctoral Scholar (2025-) "]
+timeline_positions: ["Visting Student (2024-2025)", "Postdoctoral Scholar (2025-) "]
 #subsequent: 
 pronouns: she/her/hers
 email: roserao (at) ucla.edu

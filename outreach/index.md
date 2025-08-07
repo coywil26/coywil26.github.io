@@ -1,12 +1,13 @@
 ---
 title: outreach
 layout: default
-group: DEI
+group: outreach
 ---
 
 # Coyote-Maestas Affiliated Outreach Work
 
 Being a part of the [HHMI Gilliam Program](https://www.hhmi.org/science-education/programs/gilliam-fellows-program) inspired Willow to try to make science supportive to people from all backgrounds as well as work to make it so benefits of scientific discovery and breakthroughs are more broadly shared. Below is a small sampling of some of the work Willow is involved in.
+
 
 ### Full Circle Native in Biology Symposium
 
@@ -14,4 +15,6 @@ Native Americans are massively underrepresented within science for many reasons.
 
 <img class="img-fluid mx-auto d-block" src="/static/img/courses/full_circle_23.jpeg" alt="Full Circle 2023">
 
-Moving forward, we are exploring how to start holding this event in other areas of the country where there are larger Native populations with support from institutions within those communities
+Moving forward, we are exploring how to start holding this event in other areas of the country where there are larger Native populations with support from institutions within those communities.
+
+In 2025, we held the [third iteration of Full Circle](https://pharmacy.ucsf.edu/news/2025/04/full-circle-symposium-brings-together-native-indigenous-scientists).
