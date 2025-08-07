@@ -1,7 +1,7 @@
 ---
 name: Jingyou Rao
-startdate: [2024-07-01,2025-08-01]
-enddate: [2025-08-01, present]
+startdate: [2024-07-01, 2025-08-01]
+enddate: [2025-08-01, ]
 image: /static/img/members/Rao.jpg
 #altimage: 
 position: Postdoctoral Scholar
