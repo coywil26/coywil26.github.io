@@ -14,6 +14,7 @@ UCSF: matthew.howard
 twitter: matthewkhoward
 linkedin: matthew-howard-5098a5197
 github: matthewkarlhoward
+bsky: matthewkhoward.bsky.social
 orcid: 0000-0002-2128-2065
 description: "Matt’s research focuses on developing and using mutational scanning platforms to study
 GPCR biology with the goal of generating holistic models for how receptors work at the
