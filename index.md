@@ -7,6 +7,11 @@ group: home
 # Welcome to the Coyote-Maestas Lab!
 {: .display-4}
 <br>
+![Lab Logo](static/img/logo/wcm_lab_logo.png)
+<br>
+<br>
+{: .logo-spacing}
+
 We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
 {: .welcomefont}
 
