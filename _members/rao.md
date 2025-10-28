@@ -8,7 +8,7 @@ position: Postdoctoral Scholar
 timeline_positions: ["Visting Student (2024-2025)", "Postdoctoral Scholar (2025-) "]
 #subsequent: 
 pronouns: she/her/hers
-email: roserao (at) ucla.edu
+email: roseraosh (at) gmail.com
 scholar: ERxq2TEAAAAJ
 website: https://roserao.github.io/
 #UCSF: 
