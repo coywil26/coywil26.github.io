@@ -16,11 +16,11 @@ linkedin: noah-f-greenwald-33656287
 github: ngreenwald
 orcid: 0000-0002-7836-4379
 description: "Noah received his Bachelor's in Biophysics from Harvard University. He then
-worked at the Broad Institute, where he analyzed DNA sequencing data to identify the 
-genomic drivers that separate low-grade and high-grade brain cancers. Following his work at the Broad, he 
+worked at the Broad Institute, where he analyzed DNA sequencing data to identify the
+genomic drivers that separate low-grade and high-grade brain cancers. Following his work at the Broad, he
 received his Ph.D in Cancer Biology from Stanford University, where he was co-advised
-by [Mike Angelo](https://www.angelolab.com/) and [Christina Curtis](https://med.stanford.edu/curtislab.html). 
-While at Stanford, Noah developed machine learning tools to profile highly-multiplexed imaging data. 
+by [Mike Angelo](https://www.angelolab.com/) and [Christina Curtis](https://med.stanford.edu/curtislab.html).
+While at Stanford, Noah developed machine learning tools to profile highly-multiplexed imaging data.
 He then used these tools to characterize the tumor microenvironment in breast cancer patient samples,
 combining this spatial information with paired DNA and RNA sequencing data to predict patient response to immunotherapy.
 

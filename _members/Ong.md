@@ -2,11 +2,11 @@
 name: Shirlyne Ong
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2023-07-01]
-enddate: #[YYYY-MM-DD]
+enddate: [2025-12-31]
 image: /static/img/members/Ong.png #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/bajaj_pb.jpg #365 x 365 pixels, 72 dpi
 position: Junior Specialist
-#subsequent:  update once you become an alumnus
+subsequent: Medical School
 pronouns: she/her/hers #personal pronouns
 email: Shirlyne.Ong (at) ucsf.edu #Preferred public email address
 #scholar: npMdXYIAAAAJ #Google Scholar User ID
