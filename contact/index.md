@@ -22,7 +22,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Willow Coyote-Maestas, Ph.D.</h4>
-  Assistant Professor<br>
+  Associate Professor<br>
   [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu)<br>
   [California Institute of Quantitative Biosciences (QB3)](https://qb3.org)<br>
   1700 4th Street, Byers Hall Room 403E<br>
