@@ -10,9 +10,9 @@ pronouns: he/him/his
 #update everything below here
 email: bernardo.pintoanwandter (at) ucsf.edu
 scholar: c546zskAAAAJ
-website: -
+#website: -
 UCSF: bernardo.pintoanwandter
-twitter:-
+#twitter:-
 linkedin: matthew-howard-5098a5197
 github: PintoBI
 orcid: 0000-0003-0200-1069
