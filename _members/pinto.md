@@ -2,7 +2,7 @@
 name: Bernardo Pinto-Anwandter
 startdate: [2026-2-01]
 enddate: []
-image:
+image:/static/img/members/pinto.JPG
 #altimage: /static/img/members/Pellegrino_pb.jpg
 position: "Staff Scientist"
 #subsequent: update once you become an alumnus

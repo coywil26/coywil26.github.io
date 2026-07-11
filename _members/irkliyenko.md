@@ -2,7 +2,7 @@
 name: Ira Irkliyenko
 startdate: [2025-06-01]
 enddate: []
-image: /static/img/members/irkliyenko.JPG
+image: /static/img/members/irkliyenko.jpg
 #altimage:
 position: "Graduate Student, [BioE](https://bioegrad.berkeley.edu/)"
 #subsequent:

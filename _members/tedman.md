@@ -8,23 +8,21 @@ position: "Postdoctoral Fellow"
 #subsequent: update once you become an alumnus
 pronouns: he/him/his
 #update everything below here
-email: noah.greenwald (at) ucsf.edu
-scholar: ajvnimEAAAAJ
-website: https://ngreenwald.github.io/
-UCSF: noah.greenwald
-twitter: NoahGreenwald
-linkedin: noah-f-greenwald-33656287
-github: ngreenwald
-orcid: 0000-0002-7836-4379
-description: "Noah received his Bachelor's in Biophysics from Harvard University. He then
-worked at the Broad Institute, where he analyzed DNA sequencing data to identify the
-genomic drivers that separate low-grade and high-grade brain cancers. Following his work at the Broad, he
-received his Ph.D in Cancer Biology from Stanford University, where he was co-advised
-by [Mike Angelo](https://www.angelolab.com/) and [Christina Curtis](https://med.stanford.edu/curtislab.html).
-While at Stanford, Noah developed machine learning tools to profile highly-multiplexed imaging data.
-He then used these tools to characterize the tumor microenvironment in breast cancer patient samples,
-combining this spatial information with paired DNA and RNA sequencing data to predict patient response to immunotherapy.
+email: austin.tedman (at) ucsf.edu
+scholar: QIr5Y-kAAAAJ
+website: 
+UCSF: austin.tedman
+twitter: 
+linkedin: austin-tedman-7619591b0
+github: 
+orcid: 0000-0002-0966-7210
+description: "Austin obtained his Bachelor's Degree in Biochemistry from UCLA, where as an undergrad he
+investigated the effects of dietary lipids on lipid metabolism and tumor progression in mice. He then
+worked as a forensic chemist during his gap year before starting his PhD studies at Indiana
+University under the mentorship of [Jonathan Schlebach] (https://www.chem.purdue.edu/schlebach/index.html). He moved with Jon to Purdue University, completing
+his PhD in Chemistry investigating the biochemical basis for the quality control and rescue of membrane
+proteins, primarily using high throughput mutational scanning methods. 
 
-In the Coyote-Maestas lab, Noah will be using deep mutational scanning to understand the cross talk
-between cancer and immune cells."
+In the Coyote-Maestas lab, Austin will continue to employ deep mutational scanning adjacent methods to 
+investigate the regulation of trafficking and function of G-Protein Coupled Receptors."
 ---
