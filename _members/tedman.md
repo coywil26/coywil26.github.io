@@ -2,7 +2,7 @@
 name: Austin Tedman
 startdate: [2026-05-11]
 enddate: []
-image: /static/img/members/IMG_7824.jpeg
+image: /static/img/members/tedman.png
 #altimage: /static/img/members/Pellegrino_pb.jpg
 position: "Postdoctoral Fellow"
 #subsequent: update once you become an alumnus

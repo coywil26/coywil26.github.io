@@ -1,6 +1,6 @@
 ---
 name: Bernardo Pinto-Anwandter
-startdate: [2026-2-01]
+startdate: [2026-02-01]
 enddate: []
 image: /static/img/members/pinto.JPG
 #altimage: /static/img/members/Pellegrino_pb.jpg
